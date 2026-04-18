@@ -1,4 +1,7 @@
 Self-Healing Biopolymer Film Prediction System
+![App Screenshot](app-preview.png)
+## 🌐 Live Demo
+👉 [Click here to try the app](https://hrfx9tmuohxlhupmterg8.streamlit.app)
 
 This project is a web-based application developed using Streamlit that predicts the healing efficiency and properties of self-healing biopolymer films made from natural materials.
 
